@@ -101,5 +101,3 @@ c = faceInd
 #plot
 # path= r"C:\Users\david\Desktop\Session02\session02\images\MDPA_plot5.png"
 # PlotGraph(G, path)
-
-# test
